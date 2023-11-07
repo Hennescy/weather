@@ -1,0 +1,39 @@
+body {
+    font-family: 'Arial', sans-serif;
+    background-color: #f1f1f1;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+#searchInput {
+    padding: 10px;
+    font-size: 16px;
+}
+
+#searchButton {
+    padding: 10px;
+    font-size: 16px;
+    cursor: pointer;
+    margin-bottom: 50px;
+    margin-top: 5px;
+}
+
+h2 {
+    font-size: 24px;
+    margin-bottom: 10px;
+}
+
+p {
+    font-size: 18px;
+    margin: 5px 0;
+}
+
+span {
+    font-weight: bold;
+    color: #333;
+}
